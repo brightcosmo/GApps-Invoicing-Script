@@ -48,7 +48,7 @@ The script performs the following actions:
 - Reads invoice data from a specified Google Sheet.
 - Formats the data into a PDF invoice.
 - Saves the PDF invoice to Google Drive.
-- Sends the invoice to the email addresses listed in the sheet.
+- Sends the invoice to the email address listed in the sheet.
 
 ## Contributing
 
@@ -56,4 +56,4 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
